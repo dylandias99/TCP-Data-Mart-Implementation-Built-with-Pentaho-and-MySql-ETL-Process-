@@ -84,13 +84,13 @@ Included supplier in the product table.
 
 * SalesDate Dimensional KTR:
   * TPCW, TPCE, PEC:
-    * Remove all the attributes except Sales Date
+   * Remove all the attributes except Sales Date
   
-    * Sort Sales Date in ascending order.
+   * Sort Sales Date in ascending order.
   
-    * Remove Duplicated values using unique rows.
+   * Remove Duplicated values using unique rows.
 
-    * Calculated the following values for Year, Quarter, Month, Week, Day, FiscalYear, FiscalQuarter, FiscalMonth, FiscalWeek, FiscalDay.
+   * Calculated the following values for Year, Quarter, Month, Week, Day, FiscalYear, FiscalQuarter, FiscalMonth, FiscalWeek, FiscalDay.
   
     * According to the business constraints, the fiscal year, fiscal month, fiscal week and the fiscal day is modified.
 
