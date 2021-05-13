@@ -1,0 +1,38 @@
+Status_SK,ShipMethod,PaymentMethod,OrderMethod
+1,air  ,cash  ,email   
+2,air  ,cash  ,internet
+3,air  ,cash  ,phone   
+4,air  ,charge,email   
+5,air  ,charge,internet
+6,air  ,charge,phone   
+7,air  ,cod   ,email   
+8,air  ,cod   ,internet
+9,air  ,cod   ,phone   
+10,n/a  ,cash  ,email   
+11,n/a  ,cash  ,internet
+12,n/a  ,cash  ,phone   
+13,n/a  ,charge,email   
+14,n/a  ,charge,internet
+15,n/a  ,charge,phone   
+16,n/a  ,cod   ,email   
+17,n/a  ,cod   ,internet
+18,n/a  ,cod   ,phone   
+19,train,cash  ,email   
+20,train,cash  ,internet
+21,train,cash  ,phone   
+22,train,charge,email   
+23,train,charge,internet
+24,train,charge,phone   
+25,train,cod   ,email   
+26,train,cod   ,internet
+27,train,cod   ,phone   
+28,truck,cash  ,email   
+29,truck,cash  ,internet
+30,truck,cash  ,phone   
+31,truck,charge,email   
+32,truck,charge,internet
+33,truck,charge,phone   
+34,truck,cod   ,email   
+35,truck,cod   ,internet
+36,truck,cod   ,phone   
+37,,,

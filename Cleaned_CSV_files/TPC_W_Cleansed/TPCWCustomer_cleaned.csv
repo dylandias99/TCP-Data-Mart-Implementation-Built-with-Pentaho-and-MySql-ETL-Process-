@@ -1,0 +1,41 @@
+custID;name;Addr1;Addr2;city;state;zip;CUSTTYPEID;TYPENAME
+3  ;YuliChem                              ;;6440 Amet Street;Laguna Woods        ;KY                      ; 53141;C  ;Commercial       
+6  ;Austin Ferrell                        ;;8666 Justo Road;Pullman             ;PA                      ; 55979;C  ;Commercial       
+9  ;Meridian Resources Corporation        ;Dept #805; 1977 Symbiotic Turnpike;Fall River          ;MA                      ; 02724;C  ;Commercial       
+10 ;Byron Chemicals                       ;;6831 Donec Street;Salt Lake City      ;IN                      ; 41050;C  ;Commercial       
+11 ;Beasley                               ;;7800 Nec Road;Idabel              ;MA                      ; 57132;C  ;Commercial       
+12 ;Processing Equipment Corporation      ;;29843 Klingon Road;Naperville          ;IL                      ; 60563;C  ;Commercial       
+15 ;Merritt Long                          ;Suite 30;3072 Cursus Avenue;West Haven          ;WY                      ; 83709;C  ;Commercial       
+21 ;Santos LLC.                           ;;9130 Fames Road;Billings            ;IN                      ; 12869;C  ;Commercial       
+28 ;Oleg Jones                            ;;5491 Nec Road;Moraga              ;NE                      ; 82394;C  ;Commercial       
+32 ;Mendoza Chem                          ;;4826 Urna Avenue;Everett             ;MD                      ; 87048;C  ;Commercial       
+38 ;Blevins                               ;;2571 Donec Avenue;Winooski            ;SD                      ; 65512;C  ;Commercial       
+4  ;Austin Burns                          ;;2041 Venenatis Avenue;Alexandria          ;DC                      ; 34440;E  ;Education        
+7  ;Hop Adams                             ;;704 Nisl Road;Sun Valley          ;NH                      ; 84458;E  ;Education        
+19 ;Firstfed America Bancorp Incorporated ;;5656 Settler Street;Ward Prairie        ;TX                      ; 75840;E  ;Education        
+25 ;Garrison Works                        ;;3801 Lacus Road;Reno                ;WV                      ; 46307;E  ;Education        
+27 ;Emerson Electric Company              ;;1792 Squash Drive;South Texarkana     ;TX                      ; 75501;E  ;Education        
+29 ;Genevieve Day                         ;Suite 284;1916 Ac Street;Troy                ;IN                      ; 68914;E  ;Education        
+36 ;Charity Incorporated                  ;;3254 Hendrerit Avenue;Effingham           ;WY                      ; 27502;E  ;Education        
+37 ;Ronan French                          ;;8773 Feugiat Road;Gary                ;WA                      ; 17387;E  ;Education        
+39 ;Ashton Washington                     ;;7726 Donec Road;Vallejo             ;MA                      ; 01999;E  ;Education        
+1  ;Beverly Equipment                     ;;7581 Quisque Street;Bloomington         ;HI                      ; 88440;S  ;State_Local Gov  
+2  ;Clio-Hutchinson                       ;;1257 Ac Avenue;Butler              ;SC                      ; 82126;S  ;State_Local Gov  
+8  ;Mullins Incorporated                  ;;4009 Ornare Road;Birmingham          ;NE                      ; 59509;S  ;State_Local Gov  
+13 ;Zena Machines                         ;;1277 Hendrerit Avenue;San Juan            ;WA                      ; 07066;S  ;State_Local Gov  
+14 ;The Final Frontier                    ;;528 Curabitur Road;Biddeford           ;MO                      ; 39683;S  ;State_Local Gov  
+17 ;Camera Platforms International Incorpo;;5347 Deposed Street;Houston             ;TX                      ; 77244;S  ;State_Local Gov  
+20 ;Price Rivers                          ;;2853 Aenean Avenue;Sault Ste. Marie    ;MS                      ; 59316;S  ;State_Local Gov  
+22 ;Santiago Processing                   ;;4565 Tempor Avenue;Hanahan             ;AK                      ; 15743;S  ;State_Local Gov  
+23 ;Chemfix Technologies Incorporated     ;Suite 50; 11533 Wonderingly Drive;Pasadena Hills      ;MO                      ; 63121;S  ;State_Local Gov  
+24 ;Chantale-Huffman Incorporated         ;;2761 Infinity Street;New Iberia          ;NH                      ; 65327;S  ;State_Local Gov  
+26 ;Ruby Petty                            ;;3142 Congue Street;Chicago             ;IL                      ; 76404;S  ;State_Local Gov  
+30 ;Setron                                ;Dept #80; 3085 Breakthrough Drive;Hart                ;MO                      ; 64865;S  ;State_Local Gov  
+34 ;Pulitzer Publishing Company           ;;126 Pathological Circle;Woodbury            ;NY                      ; 11797;S  ;State_Local Gov  
+40 ;Gte Corporation                       ;Dept #532; 7196 Heaver Lane;Winter Garden       ;FL                      ; 34777;S  ;State_Local Gov  
+5  ;Saint Andrews Golf Corporation        ;;8068 Substances Street;North Miami         ;Fl                      ; 33261;F  ;US Govt          
+16 ;Martinez Disposables                  ;;5331 Nunc Avenue;Tucson              ;DC                      ; 79991;F  ;US Govt          
+18 ;Cross                                 ;;6605 Rhoncus Avenue;Hopkinsville        ;NH                      ; 25620;F  ;US Govt          
+31 ;Fuentes Incorporated                  ;;7063 Phasellus Road;Compton             ;WV                      ; 68519;F  ;US Govt          
+33 ;India-Stuart                          ;;1973 At Avenue;Cudahy              ;CA                      ; 76482;F  ;US Govt          
+35 ;Ferdinand Supply                      ;;6979 Quis Street;Nome                ;DE                      ; 58359;F  ;US Govt          

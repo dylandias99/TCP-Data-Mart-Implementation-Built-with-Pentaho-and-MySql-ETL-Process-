@@ -1,0 +1,44 @@
+prodid,prodDescription,price1,price2,unitCost,supplierName,SuppAddr1,SuppAddr2,City,State,Zip,productTypeID,TYPEDESCRIPTION,BUID,NAME,ABREV
+5,Flake Photo Equipment,232,204.39,170,,,,,,,1,Photo Equipment    ,A   ,Processing Equipment    ,Equipment     
+12,Chromium Photo Equipment,565,457.49,326,,,,,,,1,Photo Equipment    ,A   ,Processing Equipment    ,Equipment     
+26,Simulations Photo Equipment,318,255.66,193,,,,,,,1,Photo Equipment    ,A   ,Processing Equipment    ,Equipment     
+27,Vastest Photo Equipment,498,442.3,294,,,,,,,1,Photo Equipment    ,A   ,Processing Equipment    ,Equipment     
+43,Bomber Photo Equipment,461,400.44,336,,,,,,,1,Photo Equipment    ,A   ,Processing Equipment    ,Equipment     
+2,Planetesimal Manufacturing Equipment,347,307,250,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+4,Miniaturizing Manufacturing Equipment,456,379.59,325,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+7,Bandage Manufacturing Equipment,298,267.01,234,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+11,Sailors Manufacturing Equipment,340,290.43,235,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+16,Insensitivity Manufacturing Equipment,200,180.44,117,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+19,Habitually Manufacturing Equipment,509,419.15,354,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+20,Courthouses Manufacturing Equipment,285,243.63,182,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+22,Extinguisher Manufacturing Equipment,120,98.36,65,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+23,Occlusion Manufacturing Equipment,199,177.29,72,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+30,Suing Manufacturing Equipment,482,426.71,329,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+33,Pervasively Manufacturing Equipment,374,334.86,303,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+34,Septembers Manufacturing Equipment,584,522.98,217,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+35,Birthdays Manufacturing Equipment,196,173.17,115,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+37,Escape Manufacturing Equipment,584,523.6,463,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+39,Disallow Manufacturing Equipment,165,145.91,97,,,,,,,2,Manufacturing Equip,A   ,Processing Equipment    ,Equipment     
+1,Enumerator Polishing Equipment,164,142.53,120,,,,,,,3,Polishing Equipment,A   ,Processing Equipment    ,Equipment     
+6,Denigrating Polishing Equipment,565,454.46,402,,,,,,,3,Polishing Equipment,A   ,Processing Equipment    ,Equipment     
+8,Chalmers Polishing Equipment,289,242.61,215,,,,,,,3,Polishing Equipment,A   ,Processing Equipment    ,Equipment     
+15,Syntax Polishing Equipment,226,190.9,123,,,,,,,3,Polishing Equipment,A   ,Processing Equipment    ,Equipment     
+18,Allis Polishing Equipment,201,176.35,112,,,,,,,3,Polishing Equipment,A   ,Processing Equipment    ,Equipment     
+21,Weeks Polishing Equipment,198,174.18,151,,,,,,,3,Polishing Equipment,A   ,Processing Equipment    ,Equipment     
+24,Loaves Polishing Equipment,425,361.33,241,,,,,,,3,Polishing Equipment,A   ,Processing Equipment    ,Equipment     
+31,Bellowing Polishing Equipment,502,451.31,400,,,,,,,3,Polishing Equipment,A   ,Processing Equipment    ,Equipment     
+36,Duplicator Polishing Equipment,544,465.36,409,,,,,,,3,Polishing Equipment,A   ,Processing Equipment    ,Equipment     
+40,Subclasses Polishing Equipment,282,239,210,,,,,,,3,Polishing Equipment,A   ,Processing Equipment    ,Equipment     
+42,Concentrators Polishing Equipment,584,524.94,472,,,,,,,3,Polishing Equipment,A   ,Processing Equipment    ,Equipment     
+32,Embodying Cleaning Supplies,250,213.52,207.11,TPC West,,,,,,5,Cleaning Supplies  ,B   ,Disposable Supplies     ,Supplies      
+9,Defeated Tray Supplies,559,476.9,448.29,TPC West,,,,,,8,Tray Supplies      ,B   ,Disposable Supplies     ,Supplies      
+10,Chartable Photo Equipment,410,347.41,295,,,,,,,9,Photo Chemicals    ,C   ,Chemicals               ,Chemicals     
+14,Travelings Photo Chemicals,274,242.01,225.07,TPC West,,,,,,9,Photo Chemicals    ,C   ,Chemicals               ,Chemicals     
+29,Millimeters Flushing Chemicals,295,251.82,241.75,TPC East,,,,,,10,Flushing Chemicals ,C   ,Chemicals               ,Chemicals     
+25,Automobiles Fillers,283,227.63,218.52,TPC East,,,,,,12,Fillers            ,D   ,Miscellaneous           ,Miscellaneous           
+38,Commendation Fillers,436,380.04,364.84,TPC West,,,,,,12,Fillers            ,D   ,Miscellaneous           ,Miscellaneous           
+13,Coward Covers,429,348.99,328.05,TPC East,,,,,,13,Covers             ,D   ,Miscellaneous           ,Miscellaneous           
+17,Sortie Covers,248,213.21,206.81,TPC East,,,,,,13,Covers             ,D   ,Miscellaneous           ,Miscellaneous           
+41,Sulkiness Covers,354,289.82,272.43,TPC East,,,,,,13,Covers             ,D   ,Miscellaneous           ,Miscellaneous           
+3,Tailor Jacks,509,429.74,399.66,TPC West,,,,,,15,Jacks              ,D   ,Miscellaneous           ,Miscellaneous           
+28,Palm Polishing Equipment,122,105.38,87,,,,,,,33,,,,

@@ -1,0 +1,41 @@
+custID;name;Addr1;Addr2;city;state;zip;CUSTTYPEID;TYPENAME
+3              ;Baxter May                  ;;796-2366 Vel Avenue;Meriden         ;FL;58328;C ;Commercial          
+6              ;Raphael Allison             ;;734-2598 Sed Avenue;La Crosse       ;HI;58702;C ;Commercial          
+9              ;The Product Company (East)  ;;20021 Barnes Road;Stratford       ;NY;13470;C ;Commercial          
+11             ;Austin Ferrell              ;;8666 Justo Road;Pullman         ;PA;55979;C ;Commercial          
+14             ;Serrano                     ;;7212 Eleifend Street;Princeton       ;KY;66785;C ;Commercial          
+15             ;Colton Maldonado            ;;1869 Leo Road;Cedar Rapids    ;SD;97640;C ;Commercial          
+16             ;Googol                      ;;5453 Dictum Avenue;Jenks           ;LA;96393;C ;Commercial          
+20             ;Pewter Gym                  ;;9028 Non Street;Sandy           ;FL;87202;C ;Commercial          
+27             ;Clare Baird                 ;;6152 Auctor Road;Wilson          ;MS;29338;C ;Commercial          
+29             ;Blevins                     ;;2571 Donec Avenue;Winooski        ;SD;65512;C ;Commercial          
+30             ;Knox Reid                   ;;500 Eu Avenue;Pass Christian  ;WY;35949;C ;Commercial          
+32             ;Ferengi Treasures           ;;716-6837 Vulputate Avenue;Paramount       ;NY;35644;C ;Commercial          
+33             ;Tallulah                    ;;3376 Aliquet Street;Batavia         ;NM;50742;C ;Commercial          
+34             ;The Product Company (West)  ;;21 E Bullard Avenue;Fresno          ;CA;93710;C ;Commercial          
+1              ;Haynes                      ;;2920 Auctor Road;Moraga          ;AZ;70314;E ;Education           
+7              ;Martin Donaldson            ;;2704 At Road;Gardner         ;GA;31421;E ;Education           
+18             ;Melvin House                ;;8371 Nullam Road;Isle of Palms   ;ME;89644;E ;Education           
+19             ;Emerson Electric Company    ;;1792 Squash Drive;South Texarkana ;TX;75501;E ;Education           
+21             ;Hop Adams                   ;;704 Nisl Road;Sun Valley      ;NH;84458;E ;Education           
+22             ;Xavier Harmon               ;;2285 Ante Street;Farmington      ;WV;16456;E ;Education           
+28             ;Schultz Learning            ;;8542 Quis Street;Spartanburg     ;ND;73217;E ;Education           
+31             ;Starfleet Academy           ;;3061 Donec Avenue;Canandaigua     ;UT;75963;E ;Education           
+38             ;Firstfed America Bancorp Inc;;5656 Settler Street;Ward Prairie    ;TX;75840;E ;Education           
+39             ;Ronan French                ;;8773 Feugiat Road;Gary            ;WA;17387;E ;Education           
+2              ;Rudyard-Knapp               ;;9261 Nulla Street;Sault Ste. Marie;LA;94298;S ;State_Local Gov     
+4              ;Maya Brewer                 ;;PO Box 825 6836 At Road;Union City      ;ND;82051;S ;State_Local Gov     
+5              ;Mullins Incorporated        ;;4009 Ornare Road;Birmingham      ;NE;59509;S ;State_Local Gov     
+10             ;Hammett Farley              ;;1668 In Street;Yonkers         ;AK;18651;S ;State_Local Gov     
+12             ;Cain                        ;;1116 Augue Street;Warwick         ;DC;38450;S ;State_Local Gov     
+25             ;Atkins                      ;;4607 Risus Road;Waukegan        ;NC;43147;S ;State_Local Gov     
+37             ;Beverly Equipment           ;;7581 Quisque Street;Bloomington     ;HI;88440;S ;State_Local Gov     
+40             ;Zena Machines               ;;1277 HenDriveerit Avenue;San Juan        ;WA;7066;S ;State_Local Gov     
+8              ;Gemma Castro                ;;9101 Duis Street;Passaic         ;VT;40926;F ;US Govt             
+13             ;Knight                      ;;765 Eget Avenue;Eureka          ;FL;57500;F ;US Govt             
+17             ;Mallory Lynch               ;;974 Nisl Road;Washington      ;ME;15623;F ;US Govt             
+23             ;Cross                       ;;112 In Road;Opelousas       ;GA;43882;F ;US Govt             
+24             ;Martinez Disposables        ;;5331 Nunc Avenue;Tucson          ;DC;79991;F ;US Govt             
+26             ;Dakota Mills                ;;7442 Amet Avenue;Syracuse        ;DE;56656;F ;US Govt             
+35             ;Ann Lee                     ;;3845 Nunc Road;Merizo          ;GA;10764;F ;US Govt             
+36             ;Kuame Barnes                ;;8757 Tincidunt Road;Lahaina         ;RI;60529;F ;US Govt             
